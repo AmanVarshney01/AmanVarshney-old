@@ -1,0 +1,11 @@
+canvas {
+    background-color: black;
+}
+
+img {
+    position: absolute;
+    bottom: 1vh;
+    left: 1vh;
+    height: 30px;
+    width: 30px;
+}

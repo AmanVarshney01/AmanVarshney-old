@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efaf77b6-f7f3-4a2e-927f-69846a524a11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/3d_name.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nameText.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3d_name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NameText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lighting/lightball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lighting/lightballs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1cmFpUcUDsH4CgHtcX2XLGbjHGC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\learning-react\testing\src\assets" />
+      <recent name="H:\learning-react\testing\src" />
+      <recent name="H:\learning-react\testing\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\learning-react\testing\src\assets" />
+      <recent name="H:\learning-react\testing\src" />
+      <recent name="H:\learning-react\testing\public" />
+      <recent name="H:\learning-react\testing\src\components\Lighting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efaf77b6-f7f3-4a2e-927f-69846a524a11" name="Default Changelist" comment="" />
+      <created>1591126044263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591126044263</updated>
+      <workItem from="1591126045993" duration="6142000" />
+      <workItem from="1591139784584" duration="4307000" />
+      <workItem from="1591144180369" duration="28000" />
+      <workItem from="1591190428590" duration="2068000" />
+      <workItem from="1591215006548" duration="5117000" />
+      <workItem from="1591280065313" duration="599000" />
+      <workItem from="1591284338082" duration="7969000" />
+      <workItem from="1591370183116" duration="6897000" />
+      <workItem from="1591451182340" duration="7089000" />
+      <workItem from="1591482007415" duration="761000" />
+      <workItem from="1591493482453" duration="511000" />
+      <workItem from="1591494009185" duration="633000" />
+      <workItem from="1591534841321" duration="600000" />
+      <workItem from="1591577600144" duration="4338000" />
+      <workItem from="1591592212946" duration="897000" />
+      <workItem from="1591593159658" duration="389000" />
+      <workItem from="1591593574040" duration="2451000" />
+      <workItem from="1591647555100" duration="600000" />
+      <workItem from="1591680184899" duration="4589000" />
+      <workItem from="1591710476067" duration="3000" />
+      <workItem from="1591850762396" duration="11000" />
+      <workItem from="1592724285353" duration="6793000" />
+      <workItem from="1592735138596" duration="9095000" />
+      <workItem from="1592788250558" duration="11006000" />
+      <workItem from="1592805008639" duration="269000" />
+      <workItem from="1592805292934" duration="624000" />
+      <workItem from="1592837554309" duration="2719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#ESLint" timestamp="1591493990524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1591493990524" />
+    <state x="656" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591457097995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="656" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1591457097995" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592795497937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592795497937" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592837626046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592837626046" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592837626045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592837626045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592837626045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
+    <state x="535" y="75" key="RollbackChangesDialog" timestamp="1591143285814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="535" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591143285814" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592848744858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1592848744858" />
+  </component>
+</project>
