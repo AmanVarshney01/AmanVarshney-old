@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efaf77b6-f7f3-4a2e-927f-69846a524a11" name="Default Changelist" comment="" />
+    <list default="true" id="efaf77b6-f7f3-4a2e-927f-69846a524a11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -117,7 +119,7 @@
       <workItem from="1592788250558" duration="11006000" />
       <workItem from="1592805008639" duration="269000" />
       <workItem from="1592805292934" duration="624000" />
-      <workItem from="1592837554309" duration="2995000" />
+      <workItem from="1592837554309" duration="3246000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1592848797658</created>
