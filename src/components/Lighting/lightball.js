@@ -23,13 +23,11 @@ const Ball = () => {
     )
 }
 const Lightball = () => {
-    const position = [Math.floor(Math.random() * 8) - 4, Math.floor(Math.random() * 6) - 3, Math.floor(Math.random() * 8) - 4]
+    const position = [Math.random() * 8 - 4, Math.random() * 2.8 - 1.3, Math.random() * 4 - 2]
     return (
-      <group>
-          <pointLight position={position} args={['rgb(255, 240, 163)' , 2, 5, 2]} castShadow penumbra={1}>
-              <Ball position={position}/>
-          </pointLight>
-      </group>
+        <pointLight position={position} args={['rgb(255, 240, 163)' , 2, 3.5, 2]} castShadow penumbra={1}>
+            <Ball position={position}/>
+        </pointLight>
     )
 };
 

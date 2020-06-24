@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="efaf77b6-f7f3-4a2e-927f-69846a524a11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Lighting/lightball.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Lighting/lightball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Lighting/lightballs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Lighting/lightballs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -119,7 +126,11 @@
       <workItem from="1592788250558" duration="11006000" />
       <workItem from="1592805008639" duration="269000" />
       <workItem from="1592805292934" duration="624000" />
-      <workItem from="1592837554309" duration="3246000" />
+      <workItem from="1592837554309" duration="7801000" />
+      <workItem from="1592881256976" duration="2052000" />
+      <workItem from="1592889448738" duration="951000" />
+      <workItem from="1592934312215" duration="3719000" />
+      <workItem from="1592963111832" duration="3062000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1592848797658</created>
@@ -156,26 +167,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592848794672" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592837626046">
+    <state width="1345" height="93" key="GridCell.Tab.0.bottom" timestamp="1592966909013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592837626046" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592837626045">
+    <state width="1345" height="93" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592966909013" />
+    <state width="1345" height="93" key="GridCell.Tab.0.center" timestamp="1592966909013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592837626045">
+    <state width="1345" height="93" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592966909013" />
+    <state width="1345" height="93" key="GridCell.Tab.0.left" timestamp="1592966909012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592837626045">
+    <state width="1345" height="93" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592966909012" />
+    <state width="1345" height="93" key="GridCell.Tab.0.right" timestamp="1592966909013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592837626045" />
+    <state width="1345" height="93" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592966909013" />
     <state x="535" y="75" key="RollbackChangesDialog" timestamp="1591143285814">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="535" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591143285814" />
+    <state x="481" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592882031465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1592882031465" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592848744858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
