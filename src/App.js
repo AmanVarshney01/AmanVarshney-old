@@ -1,5 +1,5 @@
-import React, {Fragment, Suspense, useEffect, useRef, useState} from 'react';
-import {Canvas, useFrame} from "react-three-fiber";
+import React, {Fragment, Suspense, useEffect, useState} from 'react';
+import {Canvas} from "react-three-fiber";
 import {useTransition, a} from "react-spring";
 import NameModel from "./3d_name";
 import {OrbitControls} from "drei";

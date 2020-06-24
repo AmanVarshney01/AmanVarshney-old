@@ -1,5 +1,5 @@
-import React, {useRef, useState} from 'react'
-import {useFrame, useLoader} from 'react-three-fiber'
+import React from 'react'
+import {useLoader} from 'react-three-fiber'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
 
 export default function NameModel(props) {

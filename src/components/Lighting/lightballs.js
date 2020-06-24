@@ -1,10 +1,10 @@
-import React, {Suspense, useRef} from 'react';
+import React, {useRef} from 'react';
 import Lightball from "./lightball";
 import {useFrame} from "react-three-fiber";
 
 const Lightballs = () => {
     const group = useRef();
-    const nodesBalls = [...new Array(20)];
+    const nodesBalls = [...new Array(27)];
     useFrame(() => {
         group.current.rotation.y += 0.005;
     });
